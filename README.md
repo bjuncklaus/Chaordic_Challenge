@@ -7,27 +7,27 @@ You should have the dataset (provided by you via email). Please extract everythi
 +-- data
 |   +-- clicks
 |   	--- part-00
-|				.
-|				.
-|				.
+|		.
+|		.
+|		.
 |   	--- part-36
 |   +-- impressions
 |   	--- part-00
-|				.
-|				.
-|				.
+|		.
+|		.
+|		.
 |   	--- part-36
 |   +-- pageViews
 |   	--- part-00
-|				.
-|				.
-|				.
+|		.
+|		.
+|		.
 |   	--- part-36
 |   +-- transactions
 |   	--- part-00
-|				.
-|				.
-|				.
+|		.
+|		.
+|		.
 |   	--- part-36
 ```
 Then you should run the following Jupyter Notebooks in order:
